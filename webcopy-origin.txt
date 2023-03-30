@@ -1,0 +1,28 @@
+Uri: https://cat-gpt.com/
+File Name: C:\Downloaded Web Sites\cat-gpt.com\index.htm
+Content Type: text/html
+
+Uri: https://cat-gpt.com/16.ico
+File Name: C:\Downloaded Web Sites\cat-gpt.com\16.ico
+Content Type: image/x-icon
+
+Uri: https://cat-gpt.com/180.ico
+File Name: C:\Downloaded Web Sites\cat-gpt.com\180.ico
+Content Type: image/x-icon
+
+Uri: https://cat-gpt.com/32.ico
+File Name: C:\Downloaded Web Sites\cat-gpt.com\32.ico
+Content Type: image/x-icon
+
+Uri: https://cat-gpt.com/app.js
+File Name: C:\Downloaded Web Sites\cat-gpt.com\app.js
+Content Type: application/javascript
+
+Uri: https://cat-gpt.com/jq.js
+File Name: C:\Downloaded Web Sites\cat-gpt.com\jq.js
+Content Type: application/javascript
+
+Uri: https://cat-gpt.com/tailwindcss.css
+File Name: C:\Downloaded Web Sites\cat-gpt.com\tailwindcss.css
+Content Type: text/css
+
